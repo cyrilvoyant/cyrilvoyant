@@ -4,6 +4,7 @@ Research Director at [Mines Paris – PSL](https://www.minesparis.psl.eu/), O.I.
 
 Research focus: solar and renewable energy forecasting, atmospheric physics, satellite remote sensing, and machine-learning methods (Extreme Learning Machines, autoregressive and hybrid models) applied to cyclostationary energy and meteorological time series.
 
+- 📝 Editorial Board Member, [*Sustainability* (MDPI), Energy Sustainability section](https://www.mdpi.com/journal/sustainability/sectioneditors/energy_sustainability) · listed on the [*Scientific Reports* editors page](https://www.nature.com/srep/about/editors)
 - 🔬 ORCID: [0000-0003-0242-7377](https://orcid.org/0000-0003-0242-7377)
 - 🌐 Website: [cyrilvoyant.com](https://www.cyrilvoyant.com/)
 - 📍 Sophia Antipolis, France
