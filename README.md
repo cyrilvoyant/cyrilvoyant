@@ -16,6 +16,7 @@ Research focus: solar and renewable energy forecasting, atmospheric physics, sat
 
 | Repository | Description |
 |---|---|
+| [websemantic](https://github.com/cyrilvoyant/websemantic) | Semantic layer that makes scientific codes agent-ready: LLM contract, ontology with SHACL rules, FAIR metadata (Python, [PyPI](https://pypi.org/project/websemantic/)) |
 | [Make_Stationary](https://github.com/cyrilvoyant/Make_Stationary) | Phase-based ELM deseasonalization operators for cyclostationary renewable-energy forecasting |
 | [cyclostationary-forecasting-matlab](https://github.com/cyrilvoyant/cyclostationary-forecasting-matlab) | Training-free persistence forecasting operators (BLEND, CLIPER) for periodic energy time series |
 | [temporal-gamma-index](https://github.com/cyrilvoyant/temporal-gamma-index) | Temporal gamma-index for forecast evaluation under joint amplitude/timing tolerances |
